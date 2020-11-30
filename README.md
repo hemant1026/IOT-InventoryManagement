@@ -1,4 +1,4 @@
-# IOT-InventoryManagement
+# IOT-Inventory Management
 TABLE OF CONTENTS
 1. INTRODUCTION
 2. OVERVIEW OF PROJECT
