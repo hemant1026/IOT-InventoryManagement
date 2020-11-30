@@ -1,11 +1,11 @@
 # IOT-InventoryManagement
 TABLE OF CONTENTS
-1. INTRODUCTION………………………………………………………… Page 5-6
-2. OVERVIEW OF PROJECT………………………………………………. Page 6-9
-3. ALGORITHMS AND FLOW CHART ………………………………….. Page 10-12
-4. CONCLUSION AND FUTURE SCOPE…………………………………. Page 13
-References ………………………………………………………………… Page 14
-4 | P a g e
+1. INTRODUCTION
+2. OVERVIEW OF PROJECT
+3. ALGORITHMS AND FLOW CHART 
+4. CONCLUSION AND FUTURE SCOPE
+References 
+
 ABSTRACT
 With the development of enterprises and the constant demands of the product
 diversity, traditional warehouse management models cannot meet that, due to its
@@ -22,7 +22,8 @@ with capability to connect to the Internet, to measure the inventory and send a
 mail using IFTTT to the supplier and/or to the company personnel for order
 placement, as well as display the present stock availability on a Web page hosted
 by Thingsspeak.com.
-5 | P a g e
+
+
 1. CHAPTER I: INTRODUCTION
 IoT-based inventory management lays a solid foundation for the digitalization of the
 manufacturing ecosystems and offers both process and business benefits, including:
@@ -43,7 +44,8 @@ items in the right place at the right time. With the real-time data about the qu
 location of the inventory items, manufacturers can lower the amount of inventory on hand
 while meeting the needs of the customers at the end of the supply chain.
 ● Identifying bottlenecks in the operations
-6 | P a g e
+
+
 With the real-time data about the location and the quantity of the inventory items,
 manufacturers can reveal bottlenecks in the manufacturing process and pinpoint machines
 with lower utilization rates. For instance, if part of the inventory tends to pile up in front
@@ -61,7 +63,8 @@ the industry by various methods. One such method includes an Ultrasonic sensor. 
 type of Inventory management system is suitable for industries dealing with packaged
 cartons. By establishing a shared inventory for vivid departments of the enterprise, it
 allowed them to timely and efficiently maintain and control their inventory 
-7 | P a g e
+
+
 2.2 COMPONENTS AND MODULES
 In this section, various components and Modules being used for IoT based
 SMART INVENTORY MANAGEMENT SYSTEM development is discussed:
@@ -85,7 +88,8 @@ Power the Sensor using a regulated +5V through the Vcc and Ground pins of the se
 The current consumed by the sensor is less than 15mA and hence can be directly powered
 by the on board 5V pins (If available). The Trigger and the Echo pins are both I/O pins
 and hence they can be connected to I/O pins of the microcontroller.
-8 | P a g e
+
+
 2.2.3 Breadboard
 A Breadboard is a construction base for prototyping of electronics. Originally the
 word referred to a literal bread board, a polished piece of wood used for slicing bread. A
@@ -107,9 +111,8 @@ working principle is based on storing data from sensors with the help of ESP8266
 Module. The Wi-Fi module gives update of data through “Thingspeak”. The Thingspeak
 link is https://thingspeak.com/channels/1222918/private_show where the channel name is
 Inventory. 
-9 | P a g e
-Overall circuit layout
-10 | P a g e
+
+
 3. CHAPTER-III: ALGORITHMS & FLOWCHART &
 OUTPUT GRAPHS
 3.1 ALGORITHM
@@ -125,11 +128,13 @@ STEP 7: REPEAT STEP 4, 5 & 6 UNTIL THE PROCESS END
 STEP 8: END
 11 | P a g e
 3.2 FLOWCHART
-12 | P a g e
+
+
 3.3 OUTPUT GRAPH
 No. of cartons of ice cream
 No. of cartons of chocolate
-13 | P a g e
+
+
 4. CHAPTER-IV: CONCLUSION & FUTURE SCOPE
 4.1 CONCLUSION
 Intelligent warehouse information management system based on the IOT get a lot
