@@ -28,7 +28,7 @@ by Thingsspeak.com.
 IoT-based inventory management lays a solid foundation for the digitalization of the
 manufacturing ecosystems and offers both process and business benefits, including:
 ● Automation of inventory tracking and reporting
-With RFID and IIoT, inventory managers do not need to spend time on manual tracking
+With RFID and IoT, inventory managers do not need to spend time on manual tracking
 and reporting. Each item is tracked and the data about it is recorded to a big data warehouse
 automatically. Automated asset tracking and reporting save up to 18 hours of working time
 per month and reduces the probability of human error.
